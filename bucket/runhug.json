@@ -1,21 +1,15 @@
 {
-  "version": "0.1.8",
-  "description": "Find the best Hugging Face model. Deploy it in minutes. Run it for pennies.",
-  "homepage": "https://github.com/openhat-security/runhug",
-  "license": "MIT",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/openhat-security/runhug/releases/download/v0.1.8/runhug_0.1.8_windows_amd64.zip",
-      "hash": "bf01e72942a08c2f45f7b704921827251fed1b87a304b2ea73c273c2bf418ba9"
-    }
-  },
-  "bin": "runhug.exe",
-  "checkver": "github",
-  "autoupdate": {
+    "version": "0.2.0",
     "architecture": {
-      "64bit": {
-        "url": "https://github.com/openhat-security/runhug/releases/download/v$version/runhug_$version_windows_amd64.zip"
-      }
-    }
-  }
+        "64bit": {
+            "url": "https://github.com/openhat-security/runhug/releases/download/v0.2.0/runhug_0.2.0_windows_amd64.zip",
+            "bin": [
+                "runhug.exe"
+            ],
+            "hash": "0e25bed3838332f248e6257bb4d39258228a7a0a8c725946b2fd653289fef4ff"
+        }
+    },
+    "homepage": "https://github.com/openhat-security/runhug",
+    "license": "MIT",
+    "description": "Find the best Hugging Face model. Deploy it in minutes. Run it for pennies."
 }
