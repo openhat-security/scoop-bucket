@@ -1,12 +1,12 @@
 {
-    "version": "0.2.2",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/openhat-security/runhug/releases/download/v0.2.2/runhug_0.2.2_windows_amd64.zip",
+            "url": "https://github.com/openhat-security/runhug/releases/download/v0.3.0/runhug_0.3.0_windows_amd64.zip",
             "bin": [
                 "runhug.exe"
             ],
-            "hash": "9c7c86ef16afc960997e97b0c84386ad920552c71f0250e73aac087c9dfc5aa6"
+            "hash": "7777d1e8b83d58c450d8de57a2e65115a4be05b8ad8c0fe2c6dc404911ab9e22"
         }
     },
     "homepage": "https://github.com/openhat-security/runhug",
