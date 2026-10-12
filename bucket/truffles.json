@@ -1,12 +1,12 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/openhat-security/truffles/releases/download/v1.1.0/truffles_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/openhat-security/truffles/releases/download/v1.2.0/truffles_1.2.0_windows_amd64.zip",
             "bin": [
                 "truffles.exe"
             ],
-            "hash": "b8a4cb0c29168620cae2b486d58b44cf0e7d15202ca27ee79f7c69622729ba46"
+            "hash": "7da892d4966db82bcacf23310dc58d74b6615b6bc208c0957ce4989edc644816"
         }
     },
     "homepage": "https://github.com/openhat-security/truffles",
